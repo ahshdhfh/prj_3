@@ -19,7 +19,7 @@
 - `Java 11`
 - `java-11-openjdk-11.0.15-1`
 - **IDE** : eclipse(sts-3.9.17)
-- **Framework** : Springboot(5.2.24)
+- **Framework** : Spring(5.2.24)
 - **Database** : Oracle DB(19.3.0.0.0)
 - **ORM** : Mybatis
 
